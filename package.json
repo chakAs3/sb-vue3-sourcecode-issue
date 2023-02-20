@@ -1,0 +1,27 @@
+{
+  "name": "sb-vue3-issue-with-sourcecode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@storybook/addon-essentials": "^7.0.0-beta.51",
+    "@storybook/addon-interactions": "^7.0.0-beta.51",
+    "@storybook/addon-links": "^7.0.0-beta.51",
+    "@storybook/blocks": "^7.0.0-beta.51",
+    "@storybook/testing-library": "^0.0.14-next.1",
+    "@storybook/vue3": "^7.0.0-beta.51",
+    "@storybook/vue3-vite": "^7.0.0-beta.51",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "storybook": "^7.0.0-beta.51"
+  },
+  "peerDependencies": {}
+}
